@@ -1,0 +1,5 @@
+Actual,Predicted,Observation
+Negetive,Negetive,69
+Negetive,Positive,33
+Positive,Negetive,7
+Positive,Positive,96
